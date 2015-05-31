@@ -935,7 +935,7 @@ public class TFM_PlayerListener implements Listener
         String name = player.getName();
         String name2;
         
-        if(name.equals("SupItsDillon"))
+        if(name.equals("RedEastWood"))
         {
             player.kickPlayer("Fuck off");
         }
